@@ -13,7 +13,7 @@ Developed by : Muralidar.P
 
 Reg no : 212224040207
 
-# Client
+# SERVER
 ```python
 import socket
 s = socket.socket()
@@ -34,7 +34,7 @@ while True:
             i+=st
 
 ```
-# Server
+# CLIENT
 ```python
 import socket
 s = socket.socket()
